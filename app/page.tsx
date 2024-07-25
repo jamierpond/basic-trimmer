@@ -51,7 +51,6 @@ export default function Page() {
 
   return (
     <>
-      <div id="region" />
       <WavesurferPlayer
         height={100}
         waveColor="violet"
