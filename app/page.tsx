@@ -2,7 +2,7 @@
 import { useState } from 'react'
 import WaveSurfer from 'wavesurfer.js'
 import WavesurferPlayer from '@wavesurfer/react'
-import RegionsPlugin, {Region} from 'wavesurfer.js/dist/plugins/regions.js'
+import RegionsPlugin, { Region } from 'wavesurfer.js/dist/plugins/regions.js'
 
 const DEFAULT_START = 0
 const MIN_LENGTH = 15;
